@@ -1,0 +1,23 @@
+.jumbotron {
+    background-image: url("../images/belly_button_biodiversity.jpg");
+    background-size: cover;
+    color: white
+}
+.jumbotron p {
+    font-weight: bolder;
+    color: white;
+}
+.panel-body {
+    background: honeydew;
+}
+
+.subjecth5 {
+    display: contents
+}
+h5 {
+    font-weight: bolder;
+    color: darkblue;
+}
+h6 {
+    font-style: oblique;
+}
